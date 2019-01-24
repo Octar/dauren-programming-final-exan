@@ -252,7 +252,7 @@ l_rev.append(l[j])
 
 print("menya pohodu v ban list otpravyat, hahaha")
 
-
+print("prosto pozvonite mne, ya besplatno pomogu")
 
 class TreeNode:
     def __init__(self,key,val,left=None,right=None,parent=None):
